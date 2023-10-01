@@ -15,7 +15,7 @@
  
 <br>
  
-### Pra conteúdo sobre mim confira abaixo!
+### Pra mais informação sobre mim confira abaixo!
  
 <div> 
   <a href="https://instagram.com/tuza.pvd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
